@@ -1,5 +1,5 @@
 # .join()
-names = ['Sam', 'Andrea', 'Amira']
+names = ['Cobbie', 'Jesus', 'Lauren']
 nums = [1, 2, 4, 2]
 for name in names:
     print(' '.join(['Hello there, ', name]))
